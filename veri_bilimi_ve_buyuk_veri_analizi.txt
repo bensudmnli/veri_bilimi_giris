@@ -1,0 +1,17 @@
+Veri bilimi, verileri analiz etmek, yorumlamak ve anlamak için istatistik, matematik, bilgisayar bilimi ve diğer disiplinlerin yöntemlerini kullanan bir disiplindir. 
+
+Peki veri bilimi neyi amaçlar? Veri bilimi, büyük miktarda yapılandırılmış ve yapılandırılmamış verileri ele alır ve bu verilerden anlamlı bilgiler çıkarmayı amaçlar.
+
+Veri bilimciler, verileri toplama, temizleme, analiz etme, görselleştirme ve sonuçları yorumlama süreçlerinde çeşitli araçlar ve teknikler kullanırlar. Bu süreçlerin sonunda veri bilimciler, karar alıcılar için anlamlı bilgiler sunarak işletmelerin ve kuruluşların hedeflerine ulaşmalarına yardımcı olurlar.
+
+Veri bilimi, pek çok farklı endüstride kullanılır. Örneğin sağlık, finans, e-ticaret, enerji, telekomünikasyon, sosyal medya vb. 
+
+Veri bilimi, büyük veri analizi, yapay zeka ve makine öğrenimi gibi diğer disiplinlerle yakından ilişkilidir ve bu alanlarda kullanılan teknikleri de kullanır.
+
+Veri biliminin ilişkili olduğu disiplinlerden biri olan büyük veri analizi nedir? Gelin büyük veri analizine bir göz atalım.
+
+Büyük veri analizi, büyük miktarda yapılandırılmış ve yapılandırılmamış verileri ele alarak, bu verilerden anlamlı bilgiler çıkarmayı amaçlayan bir disiplindir. Genellikle veri madenciliği, makine öğrenimi ve istatistik yöntemleri gibi teknikleri kullanarak, verileri keşfetmek, görselleştirmek ve anlamak için kullanılır.
+
+Büyük veri analizi, pek çok farklı endüstride kullanılır. Örneğin, sağlık sektöründe hastalıkların teşhisi ve tedavisi için kullanılır. Finans sektöründe dolandırıcılığı tespit etmek ve risk yönetimini geliştirmek için kullanılır. E-ticaret şirketleri, müşterilerinin davranışları hakkında bilgi edinmek için büyük veri analizi yaparlar. Bu örneklerin yanı sıra, büyük veri analizi pek çok farklı sektörde kullanılabilir.
+
+Büyük veri analizi için kullanılan araçlar arasında Hadoop, Spark, Hive, Pig, Cassandra, MongoDB ve daha birçok araç yer alır. Bu araçlar, verilerin toplanması, depolanması, işlenmesi ve analizi için kullanılır. Büyük veri analizi, günümüzde işletmelerin ve kuruluşların veri tabanlı kararlar almalarına yardımcı olan önemli bir disiplindir.
